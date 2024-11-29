@@ -1,5 +1,5 @@
 # Web Developer & Designer 
-Hello there! 👋 I'm Ethan, an ever-growing web developer with a passion for front-end and cultivating beautiful user experiences.
+Hello there! 🤟 I'm Ethan, an ever-growing web developer with a passion for front-end and cultivating beautiful user experiences.
 
 ## About Me
 - 🎓 Student at [Rochester Institute of Technology (RIT)](https://www.rit.edu/)
