@@ -16,6 +16,6 @@ In my free time, I enjoy:
 ## Lets Chat!
 - ✉️ [Email](mailto:eml8469@rit.edu)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ethan-logue2/)
-- 🌐 [Portfolio](ethan-logue.github.io)
+- 🌐 [Portfolio](https://ethan-logue.github.io)
 
 Thank you for stopping by!
